@@ -2,8 +2,8 @@
 module.exports = {
   daisyui: {
     themes: [
-      "forest",
       "cupcake",
+      "coffee",
     ],
   },
   content: ['index.html'],
